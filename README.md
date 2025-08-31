@@ -73,6 +73,6 @@ Data source : Kaggle Dataset.
 
 Screenshot/Demo :
 
-
+![Dashboard](https://github.com/maheshk0707/Workforce-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 
